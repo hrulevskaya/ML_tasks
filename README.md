@@ -129,26 +129,4 @@
 
 ## 🛠 Общий стек технологий
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `TensorFlow/Keras` · `PyTorch` · `torchvision` · `matplotlib` · `seaborn` · `yellowbrick` · `hdbscan` · `scipy`
-
-## 📂 Структура репозитория (рекомендуемая)
-```
-├── 01-used-cars-regression/
-│   └── task1.ipynb
-├── 02-image-compression-clustering/
-│   └── 4task1.ipynb
-├── 03-country-clustering/
-│   └── 4task2.ipynb
-├── 04-mnist-keras/
-│   └── 5task1.ipynb
-├── 05-cats-dogs-keras/
-│   └── 5task2.ipynb
-├── 06-mnist-pytorch/
-│   └── 6task1.ipynb
-├── 07-cats-dogs-pytorch/
-│   └── 6task2.ipynb
-├── 08-brain-mri-classification/
-│   └── task3.ipynb
-├── 09-multiclass-image-classification/
-│   └── task4.ipynb
-└── README.md
 ```
